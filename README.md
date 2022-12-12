@@ -1,4 +1,4 @@
-# Getting Started with the IBM Quantum Hub #
+# Getting Started with the Quantum Collaborative's IBM Quantum Network #
 
 1. If you have not already done so, request to have your IBM Quantum Cloud account added to the Hub using the form.
 2. Login to the IBM Quantum Cloud and copy your API Access Token: [https://quantum-computing.ibm.com/account](https://quantum-computing.ibm.com/account)
