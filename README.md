@@ -7,7 +7,7 @@
 4. Install qiskit: [https://qiskit.org/documentation/getting_started.html](https://qiskit.org/documentation/getting_started.html)
 5. Run "python 1-store_credentials.py" once to store your API Access Token on disk.
 6. Run "python 2-test_access.py" to test - the script will report the available backends if successful.
-7. Run "python 3-simple_circuit.py" to verify submissions to the Hub work
+7. Run "python 3-simple_circuit.py" as a sample submission to the Hub
 
 ## Useful Links ##
 
