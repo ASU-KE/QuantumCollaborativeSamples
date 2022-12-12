@@ -1,3 +1,6 @@
+# Modified to specify the Hub/Group/Project.
+# From: https://qiskit.org/documentation/intro_tutorial1.html
+
 import numpy as np
 from qiskit import IBMQ
 from qiskit import QuantumCircuit, transpile
