@@ -1,0 +1,13 @@
+Scripts in this repository:
+
+1-store_credentials.py
+
+Add your IBM Quantum Hub API token and project to this script and run once to store the token on disk
+
+2-test_access.py
+
+Add your project name to this script to test access
+
+3-simple_circuit.py
+
+Add your project name to this script to perform a simple circuit job submission
